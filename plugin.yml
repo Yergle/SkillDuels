@@ -1,0 +1,8 @@
+name: SkillDuels
+version: 1.0
+author: Fudged
+main: me.fudged.skillduels.SkillDuels
+commands:
+  duel:
+    usage: /<command>
+    description: Basic SkillDuels command
